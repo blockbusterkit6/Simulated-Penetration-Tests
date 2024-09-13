@@ -124,7 +124,3 @@ After completing the penetration test, I generated a comprehensive report outlin
 - **Exploitation Techniques:** Exploited vulnerabilities using Metasploit and custom payloads.
 - **Post-Exploitation:** Gained hands-on experience in maintaining access and performing reconnaissance inside a compromised system.
 - **Reporting:** Developed skills in documenting findings and providing remediation suggestions to strengthen network security.
-
----
-
-Feel free to use this format for your GitHub repository! You can include code snippets, screenshots, and links to relevant tools just as shown above to make it look polished and professional. Let me know if you'd like any further adjustments!
